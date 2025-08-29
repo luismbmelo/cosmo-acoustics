@@ -55,8 +55,8 @@ public/              # Static assets (samples, large audio files)
 ### Installation
 
 ```bash
-git clone https://github.com/your-username/looping-constellations.git
-cd looping-constellations
+git clone https://github.com/your-username/cosmo-acoustics.git
+cd cosmo-acoustics
 npm install
 npm run dev
 ```
